@@ -1,0 +1,19 @@
+# OS
+Thumbs.db
+.DS_Store
+
+# Visual Studio / editors
+.vscode/
+*.suo
+*.user
+
+# Python
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
